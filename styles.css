@@ -1,0 +1,57 @@
+* {
+
+    width: 100%;
+    left: 45%;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    margin-bottom: 0;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+
+}
+
+& .email {
+
+    width: 19%;
+    left: 0%;
+    margin: 0;
+    padding: 0;
+    border-bottom-right-radius: 10px;
+    font-size:13px;
+
+
+}
+
+& .senha {
+
+    width: 19%;
+    left: 0%;
+    margin: 0;
+    padding: 0;
+    border-bottom-right-radius: 10px;
+    font-size:13px;
+
+
+}
+
+button {
+
+    width: 9%;
+    left: 50%;
+    margin: 2px;
+    padding: 0;
+    border-radius: 0%;
+    border-color: rgb(0, 0, 0);
+    font-size:13px;
+    cursor: pointer;
+
+}
+ 
